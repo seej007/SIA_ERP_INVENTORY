@@ -175,3 +175,4 @@ The application includes comprehensive error handling:
 - Odoo Community for the comprehensive API documentation
 - Bootstrap team for the responsive design framework
 - All our team members contributing to this development
+- Our Professor in this subject of SIA, Ma'am Josephine Petralba
