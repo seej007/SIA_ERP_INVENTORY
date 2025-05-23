@@ -15,6 +15,8 @@ InvoiceEase is a web-based inventory management system that integrates with Odoo
 ![image](https://github.com/user-attachments/assets/273ca677-7a19-4f81-8897-5b3ab8ee01d4)
 ![image](https://github.com/user-attachments/assets/49794fd7-0550-4070-bbc1-e6bbb1e88bbc)
 ![image](https://github.com/user-attachments/assets/bc544538-8f91-4396-b08e-384ea0815313)
+![image](https://github.com/user-attachments/assets/b90fd9f0-e822-4618-91b8-6674e3df3187)
+
 
 
 
